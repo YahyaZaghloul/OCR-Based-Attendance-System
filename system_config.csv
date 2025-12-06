@@ -1,0 +1,4 @@
+Setting,Value
+MaxFailedAttempts,3
+LogFile,door_logs.txt
+OCRConfidenceThreshold,60

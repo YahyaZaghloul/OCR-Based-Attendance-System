@@ -1,0 +1,5 @@
+Username,ExpectedName,ExpectedID,VoicePassphrase,Role,Status
+admin_john,JOHN DOE,12345,open sesame,Admin,Active
+admin_sarah,SARAH ADMIN,11111,admin access,Admin,Active
+user_emma,EMMA WILSON,67890,hello door,User,Active
+user_michael,MICHAEL CHEN,54321,unlock now,User,Active
